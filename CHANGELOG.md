@@ -2,6 +2,17 @@
 
 Todos los cambios relevantes del proyecto se documentan en este archivo.
 
+
+## [v1.1] - 2026-11-27
+### Añadido
+- Entrada VIP de un día (60 €).
+- Abono general de dos días (45 €).
+
+### Corregido
+- Error en el precio de la entrada VIP.
+- Error en el precio del abono de dos días.
+
+
 ## [0.1.0] - 2026-11-13
 
 ### Añadido
